@@ -11,8 +11,9 @@
 	<nav id= "menu">
 		<ul>
 			<li><a href = "index.html">Home</a></li>
-			<li><a href = "cadastro.html">Cadastro</a></li>
-		</ul>
+			<li><a href= "poupanca.jsp">Conta Poupança</a></li>
+       		<li><a href= "especial.jsp">Conta Especial</a></li>
+		</ul> 
 	</nav>
 </body>
 </html>
